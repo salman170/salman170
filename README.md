@@ -20,7 +20,7 @@ On a way to be a SOFTWARE DEVELOPER ENGINEER and I'm very passionate about codin
 </p>
      
 <div align="center"> <img src="https://raw.githubusercontent.com/salman170/salman170/output/github-contribution-grid-snake.svg" /></div>
-<div align="center"> <img src="https://raw.githubusercontent.com/neerajap-01/neerajap-01/output/github-contribution-grid-snake.svg" /></div>
+<div align="center"> <img src="https://raw.githubusercontent.com/salman170/salman170/output/github-contribution-grid-snake.svg" /></div>
 
 ### Skills
 
