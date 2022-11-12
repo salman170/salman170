@@ -20,6 +20,7 @@ On a way to be a SOFTWARE DEVELOPER ENGINEER and I'm very passionate about codin
 </p>
      
 <div align="center"> <img src="https://raw.githubusercontent.com/salman170/salman170/output/github-contribution-grid-snake.svg" /></div>
+<div align="center"> <img src="https://raw.githubusercontent.com/neerajap-01/neerajap-01/output/github-contribution-grid-snake.svg" /></div>
 
 ### Skills
 
@@ -30,7 +31,7 @@ On a way to be a SOFTWARE DEVELOPER ENGINEER and I'm very passionate about codin
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 </p>
 
 
@@ -43,3 +44,4 @@ On a way to be a SOFTWARE DEVELOPER ENGINEER and I'm very passionate about codin
 salman170/salman170 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
