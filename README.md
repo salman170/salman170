@@ -16,6 +16,8 @@ On a way to be a SOFTWARE DEVELOPER ENGINEER and I'm very passionate about codin
 <hr>
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=salman170&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=salman170&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+</p>
      
 <div align="center"> <img src="https://raw.githubusercontent.com/salman170/salman170/output/github-contribution-grid-snake.svg" /></div>
 <div align="center"> <img src="https://raw.githubusercontent.com/salman170/salman170/output/github-contribution-grid-snake.svg" /></div>
