@@ -23,7 +23,7 @@ On a way to be a great software developerand I'm very passionate about coding be
 </p>
 
 
-## 📊 My Github Stats
+<!-- ## 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/salman170/github-readme-stats"><img alt="Salman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=salman170&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -32,7 +32,7 @@ On a way to be a great software developerand I'm very passionate about coding be
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
-<br/>
+<br/> -->
 
 ### Skills
 
