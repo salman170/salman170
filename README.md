@@ -61,6 +61,6 @@ On a way to be a great software developerand I'm very passionate about coding be
 
 <br/>
 
-## Watch my contribution graph
-<div align="center"> <img src="https://raw.githubusercontent.com/salman170/salman170/output/github-contribution-grid-snake.svg" /></div>
+<!-- ## Watch my contribution graph
+<div align="center"> <img src="https://raw.githubusercontent.com/salman170/salman170/output/github-contribution-grid-snake.svg" /></div> -->
 
