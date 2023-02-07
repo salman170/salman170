@@ -59,6 +59,10 @@ On a way to be a great software developerand I'm very passionate about coding be
 
 <!-- <a href="https://github.com/salman170/github-readme-activity-graph"><img alt="Salman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=salman170&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
+[![Salman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=salman170)](https://github.com/salman170/github-readme-activity-graph)
+[![Salman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/salman170/github-readme-activity-graph)
+
+[![Salman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=github-compact)](https://github.com/salman170/github-readme-activity-graph)
 <br/>
 
 ## Watch my contribution graph
