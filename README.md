@@ -62,8 +62,8 @@ On a way to be a great software developerand I'm very passionate about coding be
 [![Salman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=salman170)](https://github.com/salman170/github-readme-activity-graph)
 [![Salman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/salman170/github-readme-activity-graph)
 
-[![Salman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=github-compact)](https://github.com/salman170/github-readme-activity-graph)
-<br/>
+<!-- [![Salman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=github-compact)](https://github.com/salman170/github-readme-activity-graph)
+<br/> -->
 
 ## Watch my contribution graph
 <div align="center"> <img src="https://raw.githubusercontent.com/salman170/salman170/output/github-contribution-grid-snake.svg" /></div>
