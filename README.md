@@ -57,9 +57,7 @@ On a way to be a great software developerand I'm very passionate about coding be
 <a href="https://www.linkedin.com/in/salman-ansari1/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 </p>
 
-<!-- <a href="https://github.com/salman170/github-readme-activity-graph"><img alt="Salman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=salman170&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
-[![Salman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=salman170&theme=react-dark)](https://github.com/salman170/github-readme-activity-graph)
 
 
 ## Watch my contribution graph
