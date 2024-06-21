@@ -5,7 +5,7 @@ Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/H
 MERN Developer Engineer
 ---------------------------
 ![](https://komarev.com/ghpvc/?username=salman170&color=brightgreen&style=flat) \
-On a way to be a great software developerand I'm very passionate about coding because it makes me work hard.
+On a way to be a great software developer and I'm very passionate about coding because it makes me work hard.
 
 * 🌍  I'm based in Mumbai, Maharashtra, India
 * ✉️  You can contact me at [salmanansari02120@gmail.com](mailto:salmanansari02120@gmail.com)
