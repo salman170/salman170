@@ -60,6 +60,5 @@ On a way to be a great software developer and I'm very passionate about coding b
 
 
 <!-- [![Salman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=salman170&theme=react-dark)](https://github.com/salman170/github-readme-activity-graph) -->
-=======
 
 
