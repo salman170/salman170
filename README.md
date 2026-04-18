@@ -1,64 +1,99 @@
+# Hi 👋 I'm Salman Ansari
 
-Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Salman.
-===========================
+### 🚀 Full-Stack Developer | React • Node.js • Python
 
-MERN Developer Engineer
----------------------------
-![](https://komarev.com/ghpvc/?username=salman170&color=brightgreen&style=flat) \
-On a way to be a great software developer and I'm very passionate about coding because it makes me work hard.
+![](https://komarev.com/ghpvc/?username=salman170\&color=brightgreen\&style=flat)
 
-* 🌍  I'm based in Mumbai, Maharashtra, India
-* ✉️  You can contact me at [salmanansari02120@gmail.com](mailto:salmanansari02120@gmail.com)
-* 🧠  I'm MERN stack engineer.
-* 🤝  I'm open to collaborating on interesting and challenging projects
-* ⚡  I'm fast learner.
+I’m a full-stack developer with **3.5+ years of experience** building scalable web applications and high-performance systems.
+I specialize in **React, Node.js, and Python**, with hands-on experience in modern cloud-based architectures.
 
-<hr>
+---
 
-<br>
+### 👨‍💻 About Me
+
+* 🌍 Based in Mumbai, India
+* 💼 Currently working as **Full-Stack Developer @ Pharmarack Technologies**
+* 🧠 Strong in system design, performance optimization & scalable architecture
+* 🤝 Open to collaborating on impactful and challenging projects
+* ⚡ I enjoy solving complex problems and building efficient systems
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+JavaScript • TypeScript • Python • C++ • SQL
+
+**Frontend**
+React.js • Next.js
+
+**Backend**
+Node.js • Express.js • FastAPI
+
+**Databases**
+MongoDB • PostgreSQL • MySQL • Snowflake
+
+**Tools & Cloud**
+Git • GitHub • GitHub Actions • Firebase • Postman • AWS (EC2, S3, Glue)
+
+---
+
+### 💼 Experience
+
+#### 🏢 Pharmarack Technologies (Nov 2024 – Present)
+
+* Migrated **40+ legacy .NET screens** to React & Python → improved throughput by **40–50%**
+* Built audit & workflow systems reducing cycle time from **5 days → 1 day**
+* Developed **RBAC + SSO-based admin panels**
+* Refactored legacy dashboards into scalable React architecture
+* Mentored junior developers
+
+#### 🏢 BroaddCast Business Solutions (Feb 2023 – Oct 2024)
+
+* Led frontend development for core product using React.js
+* Built optimized REST APIs with **5–10x performance improvement**
+* Integrated **Razorpay & Shiprocket APIs**
+* Scaled system to handle **1000+ daily users**
+
+#### 🏢 FunctionUp (Jul 2022 – Jan 2023)
+
+* Built backend systems using Node.js & MongoDB
+* Developed REST APIs and improved application performance
+* Collaborated using Git & GitHub workflows
+
+---
+
+### 🚀 Projects
+
+#### 🛒 Nuform — E-commerce Platform
+
+* Built full-stack payment system using **Razorpay**
+* Integrated **Shiprocket** for automated logistics optimization
+* Features: authentication, order tracking, reviews, responsive UI
+
+#### 🚗 Saboo Nexa — Dealership Platform
+
+* Developed system for car booking, service scheduling & inquiries
+* Integrated **Zoho CRM** for lead & customer management
+* Added real-time pricing & chatbot integrations
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-    <a href="https://github.com/salman170/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="salman170's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=salman170&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salman170&theme=black-ice&hide_border=true"/>
 </p>
 
+---
 
-<!-- ## 📊 My Github Stats
+### 🌐 Connect With Me
 
-  <br/>
-    <a href="https://github.com/salman170/github-readme-stats"><img alt="Salman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=salman170&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/salman170/github-readme-stats"><img alt="Salman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salman170&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+* 📧 Email: [salmanansari02120@gmail.com](mailto:salmanansari02120@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/salman-ansari1/
+* 💻 GitHub: https://github.com/salman170
+* 🌐 Portfolio: https://salman1.vercel.app/
 
-<br/>
-<br/> -->
+---
 
-### Skills
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-
-</p>
-<br/>
-
-### Socials - Connect with me:
-
-<p align="left">
-<a href="https://discord.com/users/SalmanA#7113" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
-<a href="https://www.github.com/salman170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-<!-- <a href="http://www.instagram.com/s.ansari.17" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>  -->
-<a href="https://www.linkedin.com/in/salman-ansari1/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-</p>
-
-
-
-<!-- [![Salman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=salman170&theme=react-dark)](https://github.com/salman170/github-readme-activity-graph) -->
-
-
+⭐️ *Always open to interesting opportunities and collaborations!*
